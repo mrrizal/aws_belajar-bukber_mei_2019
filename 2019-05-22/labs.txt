@@ -1,0 +1,4 @@
+docker beginer: https://github.com/docker/labs/tree/master/beginner
+porting nodejs app to docker: https://github.com/docker/labs/tree/master/developer-tools/nodejs/porting/
+ci cd using docker: https://github.com/docker/labs/blob/master/developer-tools/java/chapters/ch09-cicd.adoc
+eks: https://eksworkshop.com/

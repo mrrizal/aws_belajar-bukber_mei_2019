@@ -1,0 +1,1 @@
+building data lake: https://d205nfn136cj6z.cloudfront.net/publicfiles/labguides/bigdata/glue-data-pipelines-2018/rudisur-aws-innovate-2018-glue-datapipelines-demo3.htm
